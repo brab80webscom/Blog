@@ -10,4 +10,3 @@
 Ancienne adresse : <a href="http://brab80.webs.com" target="_blank"><strong>http://brab80.webs.com</strong></a>
 </div>
 
-x
