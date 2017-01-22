@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="http://brab80.webs.com/reset.css" type="text/css" />
-<link rel="stylesheet" href="http://brab80.webs.com/style2009.css" type="text/css" />
+<link rel="stylesheet" href="normal3.css" type="text/css" />
 
 # 2017
 
