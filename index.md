@@ -3,6 +3,7 @@
 # 2017
 
 * [**09.01.2017**](20170109.md)<br>Comptes financiers en 2011 et 2012<br>Partage des constatations d'inventaire
+* [**05.01.2017**](20170105.md)<br>Les charges sont en baisse de 14,5 % depuis juin 2013 !
 
 &nbsp;
 
