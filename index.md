@@ -2,7 +2,7 @@
 
 # 2017
 
-* [**09.01.2017**](20170109.md)<br>Comptes financiers en 2011 et 2012 Partage des constatations d'inventaire
+* [**09.01.2017**](20170109.md)<br>Comptes financiers en 2011 et 2012<br>Partage des constatations d'inventaire
 
 &nbsp;
 
