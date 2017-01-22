@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="screen" href="http://daytodaydr.webs.com/2016_atelier_1/fonts.css" />
+
 # Blog
 
 ### Pour de meilleurs échanges d'informations entre les occupants
