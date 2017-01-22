@@ -10,3 +10,4 @@
 Ancienne adresse : <a href="http://brab80.webs.com" target="_blank"><strong>http://brab80.webs.com</strong></a>
 </div>
 
+La nouvelle adresse est : <a href="https://brab80webscom.github.io/Blog/" target="_blank"><strong>https://brab80webscom.github.io/Blog/</strong></a>
