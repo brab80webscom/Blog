@@ -25,6 +25,6 @@
 
 # 2014
 
-* [**10.02.2014**](https://brab80webscom.github.io/2014/20140210.md)<br>Mise à jour du règlement de copropriété<br>Résultats des travaux du Groupe des Sages
+* [**10.02.2014**](/2014/20140210.md)<br>Mise à jour du règlement de copropriété<br>Résultats des travaux du Groupe des Sages
 
 &nbsp;
