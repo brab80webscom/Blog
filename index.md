@@ -18,3 +18,13 @@
 * [**29.06.2016**](20160629.md)<br>Lancement de l'inventaire demandé par l'AG 2016
 
 &nbsp;
+
+# 2015
+
+&nbsp;
+
+# 2014
+
+* [**10.02.2014**](https://brab80webscom.github.io/2014/20140210.md)<br>Mise à jour du règlement de copropriété<br>Résultats des travaux du Groupe des Sages
+
+&nbsp;
