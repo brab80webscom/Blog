@@ -1,10 +1,8 @@
 <link rel="stylesheet" href="normal3.css" type="text/css" />
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+| [Vos finances](https://brab80webscom.github.io/Comptes) | [Vivre ensemble](http://brabanconne-contact.site123.me/) |
+| :---: | :---: |
+| ![](icon_earn.png) | ![](icon_feedback.png) |
 
 # 2017
 
