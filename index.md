@@ -13,6 +13,7 @@
 
 # 2016
 
+* [**21.12.2016**](20161221.md)<br>Projet définitif de mise en conformité des statuts de l'ACP
 * [**19.11.2016**](20161119.md)<br>Demande des extraits de compte adressée à *ING Belgique*
 * [**29.06.2016**](20160629.md)<br>Lancement de l'inventaire demandé par l'AG 2016
 
