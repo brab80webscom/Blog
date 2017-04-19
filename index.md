@@ -6,7 +6,8 @@
 
 # 2017
 
-* [**27.02.2017**](20170227.md)<br>début de la diffusion du rapport d'inventaire
+* [**07.03.2017**](20170307.md)<br>Ce soir, c'était Assemblée Générale
+* [**27.02.2017**](20170227.md)<br>Début de la diffusion du rapport d'inventaire
 * [**09.01.2017**](20170109.md)<br>Comptes financiers en 2011 et 2012<br>Partage des constatations d'inventaire
 * [**05.01.2017**](20170105.md)<br>Les charges sont en baisse de 14,5 % depuis juin 2013 !
 
