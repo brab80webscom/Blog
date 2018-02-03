@@ -7,9 +7,9 @@
 * [Acte de base](acte_base.md) 
 * Règlement de copropriété
     * Intégration des propositions du [Cabinet Arquin](Statuts_Conformes_2017.pdf)
-    * Code Civil applicable en cas de conflit ou silence des textes
+    * Effets du double refus de l'AG
 * Litige Fontenelle
-    * Texte du jugement
+    * [Texte du jugement](TPI_Fontenelle_20160509.pdf)
     * Acquis du jugement
 * Litige Maurino & consorts
     * Texte de la décision du Juge de Paix
