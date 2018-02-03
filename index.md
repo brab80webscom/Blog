@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="normal3.css" type="text/css" />
 
-| [Vos finances](https://brab80webscom.github.io/Comptes) | [Vivre ensemble](http://brabanconne-contact.site123.me/) |
-| :---: | :---: |
-| ![](icon_earn.png) | ![](icon_feedback.png) |
+| [Vos finances](https://brab80webscom.github.io/Comptes) | [Vivre ensemble](http://brabanconne-contact.site123.me/) | [Clarté juridique](/Legal/intro.md) |
+| :---: | :---: | :---: |
+| ![](icon_earn.png) | ![](icon_feedback.png) | ![](icon_justice.png)
 
 # 2017
 
