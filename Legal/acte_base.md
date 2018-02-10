@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="reset.css" type="text/css" />
 <link rel="stylesheet" href="normal4.css" type="text/css" />
 
 # Acte de Base
@@ -8,6 +9,15 @@ La première page de l'Acte de Base tel que remis à tout acheteur d'un appartem
 résidence ;
 * acte modificatif du 17 novembre 1955 concernant l'<a href="#footnote"><b>article 58</b></a> de l’acte ;
 * acte modificatif du 16 novembre 1956 en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+
+### Les acquis des actes
+
+| Actes | Qu'en retenir ? |
+| --- | --- |
+| acte du 27.07.1955 | x |
+| acte du 17.11.1955 | x |
+| acte du 16.11.1956 | x |
+
 
 &nbsp;
 
