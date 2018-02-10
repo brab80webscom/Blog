@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="reset.css" type="text/css" />
+<link rel="stylesheet" href="normal3.css" type="text/css" />
 
 ![](icon_justice.png)
 
