@@ -94,12 +94,12 @@ min-height: 300px;
 }
 
 table {
-	font-size: 1.2em;
 	color:#333333;
     border: 3px #b9c9fe solid;
 }
 table th {
-	border-width: 1px;
+    font-size: 1.2em;
+    border-width: 1px;
 	padding: 8px;
 	border-style: solid;
 	border-color: #666666;
