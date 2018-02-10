@@ -1,11 +1,8 @@
 <link rel="stylesheet" href="normal4.css" type="text/css" />
 
-<div align="right">
 
 | ![](icon_justice.png) |
 | --- |
-
-</div>
 
 # Acte de Base
 
