@@ -11,15 +11,17 @@
 
 La première page de l'Acte de Base tel que remis à tout acheteur d'un appartement (et sans doute d'un lot consistant en un emplacement destiné au stationnement d'une voiture) se réfère à trois actes notariés, tous trois passés devant Maître Edmond Morren, Notaire de Résidence à Bruxelles :
 
-* Dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, un [terrain non bâti appartenait à la Ville de Bruxelles](acte2_p2.png) depuis plus de 30 ans ;
-* le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
-* acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
+1. Dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, un [terrain non bâti appartenait à la Ville de Bruxelles](acte2_p2.png) depuis plus de 30 ans ;
+2. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
+3. acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence ;
-* cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
-    * modifier les règles [sans passer par une AG](acte1_chapitre7.png), car elle est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
-    * aller jusqu'à créer (= définir) autant de parties spéciales qu'elle souhaite ;
-* [acte modificatif du 17 novembre 1955](acte2_1955117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) de l’acte ;
-* acte modificatif du 16 novembre 1956 en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+4. cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
+    * modifier les règles [sans passer par une AG](acte1_chapitre7.png) ;
+    * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
+    * et ce, [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
+    * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales qu'elle souhaite](acte1_chapitre7.png) ;
+5. [acte modificatif du 17 novembre 1955](acte2_1955117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) de l’acte ;
+6. acte modificatif du 16 novembre 1956 en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
 
 ### Les acquis des actes
 
