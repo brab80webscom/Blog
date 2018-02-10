@@ -112,3 +112,7 @@ table td {
 	border-color: #666666;
     background-color: #ffffff;
 }
+
+p {
+    text-align: justify;
+}

@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="reset.css" type="text/css" />
 <link rel="stylesheet" href="normal4.css" type="text/css" />
 
 # Acte de Base
@@ -11,6 +10,8 @@ résidence ;
 * acte modificatif du 16 novembre 1956 en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
 
 ### Les acquis des actes
+
+tel
 
 | Actes | Qu'en retenir ? |
 | --- | --- |
