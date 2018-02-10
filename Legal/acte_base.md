@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="normal4.css" type="text/css" />
 
+<div align="right">
+
+| ![](icon_justice.png) |
+| --- |
+
+</div>
+
 # Acte de Base
 
 La première page de l'Acte de Base tel que remis à tout acheteur d'un appartement (et sans doute d'un lot consistant en un emplacement destiné au stationnement d'une voiture) se réfère à trois actes notariés, tous trois passés devant Maître Edmond Morren, Notaire de Résidence à Bruxelles :
@@ -15,7 +22,7 @@ tel
 
 | Actes | Qu'en retenir ? |
 | --- | --- |
-| acte du 27.07.1955 | x |
+| acte du 27.07.1955 | &#x2612; un immeuble formé de 3 blocs d'appartement<br>&#x2612; un immeuble destiné au logement de personnes<br>&#x25A0; un terrain en friche aux environs ([**clichés**](bruciel.md) du site [bruciel.be](http://bruciel.brussels/)) |
 | acte du 17.11.1955 | x |
 | acte du 16.11.1956 | x |
 
