@@ -6,19 +6,24 @@
 
 La première page de l'Acte de Base tel que remis à tout acheteur d'un appartement (et sans doute d'un lot consistant en un emplacement destiné au stationnement d'une voiture) se réfère à trois actes notariés, tous trois passés devant Maître Edmond Morren, Notaire de Résidence à Bruxelles.
 
-> <font color="#b22222">Voir les points <b>3.</b>, <b>5.</b> et <b>6.</b> ci-dessous.</font>
+> <font color="#b22222">( Voir les points <b>3.</b>, <b>5.</b> et <b>6.</b> ci-dessous )</font>
 
-1. Dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, un [terrain non bâti appartenait à la Ville de Bruxelles](acte2_p2.png) depuis plus de 30 ans
+1. dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, un [terrain non bâti appartenait à la Ville de Bruxelles](acte2_p2.png) depuis plus de 30 ans
 2. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
-3. acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
+3. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence
 4. cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
     * modifier les règles [sans passer par une AG](acte1_chapitre7.png) ;
     * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
     * et ce, [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
     * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales qu'elle souhaite](acte1_chapitre7.png)
-5. [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) de l’acte
-6. [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+5. <u>deuxième acte fondateur :</u> [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) du règlement de copropriété
+6. <u>troisième acte fondateur :</u> [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+7. ce qu'en a dit le Juge de Paix, dans sa décision du 26.05.2016 :
+    * [l'acte de base est souverain](acte_in_JP2016_1.png) pour déterminer la répartition des frais ;
+    * il n'est [pas logique](acte_in_JP2016_2.png) pour un propriétaire d'appartement de supporter des frais qui ne profite nullement ;
+    * la [dalle des bétons](acte_in_JP2016_3.png) est une partie de l'immeuble qui appartient aux parties spéciales "*Garages*", car elle sert de toit aux unités de parking privatives
+8. en appel le 23.01.2018, le raisonnement du Juge de Paix a été confirmé en tout point
 
 ### Les acquis des actes
 
