@@ -23,7 +23,7 @@ résidence
     * [l'acte de base est souverain](acte_in_JP2016_1.png) pour déterminer la répartition des frais ;
     * il n'est [pas logique](acte_in_JP2016_2.png) pour un propriétaire d'appartement de supporter des frais qui ne profite nullement ;
     * la [dalle des bétons](acte_in_JP2016_3.png) est une partie de l'immeuble qui appartient aux parties spéciales "*Garages*", car elle sert de toit aux unités de parking privatives
-8. en appel le 23.01.2018, le raisonnement du Juge de Paix a été confirmé en tout point
+8. en appel le 23.01.2018, le raisonnement du Juge de Paix a été confirmé ["*en toutes ses dispositions*"](appel.png)
 
 ### Les acquis des actes
 
