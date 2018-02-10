@@ -94,11 +94,12 @@ min-height: 300px;
 }
 
 table {
-	color:#333333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#333333;
     border: 3px #b9c9fe solid;
 }
 table th {
-    font-size: 1.2em;
+    color: #000000;
     border-width: 1px;
 	padding: 8px;
 	border-style: solid;
