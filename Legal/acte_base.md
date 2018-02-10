@@ -6,7 +6,7 @@
 
 La première page de l'Acte de Base tel que remis à tout acheteur d'un appartement (et sans doute d'un lot consistant en un emplacement destiné au stationnement d'une voiture) se réfère à trois actes notariés, tous trois passés devant Maître Edmond Morren, Notaire de Résidence à Bruxelles.
 
-> <font color="#b22222">Voir les points **3.**, **5.** et **6.** ci-dessous.</font>
+> <font color="#b22222">Voir les points <b>3.</b>, <b>5.</b> et <b>6.</b> ci-dessous.</font>
 
 1. Dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, un [terrain non bâti appartenait à la Ville de Bruxelles](acte2_p2.png) depuis plus de 30 ans ;
 2. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
