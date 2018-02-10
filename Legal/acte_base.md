@@ -17,8 +17,8 @@ résidence ;
     * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
     * et ce, [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
     * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales qu'elle souhaite](acte1_chapitre7.png) ;
-5. [acte modificatif du 17 novembre 1955](acte2_1955117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) de l’acte ;
-6. acte modificatif du 16 novembre 1956 en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+5. [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) de l’acte ;
+6. [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
 
 ### Les acquis des actes
 
