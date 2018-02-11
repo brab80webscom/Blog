@@ -14,7 +14,7 @@ La première page de l'Acte de Base remis à tout acheteur d'un appartement apr�
     * [Voir aussi la description de l'historique du lotissement](bruciel.md) <font color="#b22222"> : plans de 1881 et 1894 ; photos aériennes de 1930, 1944 et 1953</font>
 4. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence
-5. le cahier de charges, enregistré le 01.08.1955, prévoit la construction de [153 appartements](CdeCh_objet.png) et exclut à ce stade les spécifications techniques pour les [chauffage et construction de garages](CdCh_art1.png) 
+5. le cahier de charges, enregistré le 01.08.1955, prévoit la construction de [153 appartements](CdeCh_objet.png) et exclut à ce stade les spécifications techniques pour les [chauffage et construction de garages](CdeCh_art1.png) 
 6. cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
     * modifier les règles [sans passer par une AG](acte1_chapitre7.png) ;
     * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
