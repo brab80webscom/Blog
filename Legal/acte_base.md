@@ -8,9 +8,12 @@ La première page de l'Acte de Base tel que remis à tout acheteur d'un appartem
 
 > <font color="#b22222">( Voir les points <b>4.</b>, <b>6.</b> et <b>7.</b> ci-dessous )</font>
 
-1. en 1894 a été construit un [dépôt de corbillards](http://www.irismonument.be/fr.Bruxelles_Extension_Est.Avenue_de_la_Brabanconne.html) dans le quadrilatère Brabançonne - Noyer - Luther - Abdication, 
-2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)
+1. en 1894 a été construit un [dépôt de corbillards](http://www.irismonument.be/fr.Bruxelles_Extension_Est.Avenue_de_la_Brabanconne.html) dans le quadrilatère Brabançonne - Noyer - Luther - Abdication 
+2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue de l'Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)
 3. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
+
+> voir aussi la [description](bruciel.md) des plans de 1894 et des photos aériennes de 1930, 1944 et 1953
+
 4. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence
 5. cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
