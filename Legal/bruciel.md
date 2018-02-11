@@ -1,14 +1,24 @@
 <link rel="stylesheet" href="normal3.css" type="text/css" />
 
+# Historiquement
+
+Un vaste cimetière s'étendait de la Chaussée de Louvain à (quasiment) l'actuelle Place des Chasseurs Ardennais.  
+Il se prolongeait également au-delà de la Chaussée de Louvain à hauteur de la Place Dailly.  
+( ci-dessous : un plan de 1881 )
+
+![](1881.png)
+
 # 1893-1895
 
-Un dépôt de corbillards est construit à l'entrée nord-est du vaste cimetière préexistant depuis (sans doute) plusieurs siècles.
+Un dépôt de corbillards est construit sur une partie réduite du cimetière.  
+Les rues avoisinantes (Inquisition, Calvi, Charles Quint, Campenhout) ne sont pas encore bâties.
 
 ![](depot_1894.png)
 
 # 1930
 
 L'immeuble de gestion des cimetières des communes environnantes (Bruxelles, Schaerbeek et Etterbeek) est bordé d'arbres.  
+Il comporte une tour (voir ombre projetée sur la rue du Noyer), à moins que ce ne soit un clocher.  
 Au coin des rues de l'Abdication et Luther est implantée une sous-station d'électricité. 
 
 ![](1930.png)
