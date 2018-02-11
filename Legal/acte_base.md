@@ -25,19 +25,21 @@ résidence
 7. <u>troisième acte fondateur :</u> [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
 8. ce qu'en a dit le Juge de Paix, dans sa décision du 26.05.2016 :
     * [l'acte de base est souverain](acte_in_JP2016_1.png) pour déterminer la répartition des frais ;
-    * il n'est [pas logique](acte_in_JP2016_2.png) pour un propriétaire d'appartement de supporter des frais qui ne profite nullement ;
+    * il n'est [pas logique](acte_in_JP2016_2.png) pour un propriétaire d'appartement de supporter des frais qui ne lui profitent nullement ;
     * la [dalle des bétons](acte_in_JP2016_3.png) est une partie de l'immeuble qui appartient aux parties spéciales "*Garages*", car elle sert de toit aux unités de parking privatives
-9. en appel le 23.01.2018, le raisonnement du Juge de Paix a été confirmé ["*en toutes ses dispositions*"](appel.png)
+9. en appel le 23.01.2018, le raisonnement du Juge de Paix a été [confirmé en toutes ses dispositions](appel.png)
 
 ### Les acquis des actes
 
-&nbsp;
+&#x2610; = acquis provisoires,  devenus obsolètes après le 30.11.1956)  
+&#x2612; = acquis toujours d'application, pris en compte par le Juge de Paix en 2016  
+&#x2611; = acquis toujours d'application, à prendre en compte par le Groupe de Réflexion informel créé par l'AG du 07.03.2017
 
 | Actes | Qu'en retenir ? |
 | --- | --- |
-| [acte du 27.07.1955](acte_19550727.png) | &#x2612; un immeuble formé de 3 blocs d'appartement<br>&#x2612; chaque bloc prend en charge 1/3 des dépenses du [domaine cadastré](https://docs.google.com/spreadsheets/d/1ROmm1ke82EWqpkRzyXTimypGZGgprYYY51rrutabcL4/edit?usp=sharing)<br>&#x2612; un immeuble destiné au [**logement de personnes**](art64_1955.png)<br>&#x2612; un terrain en friche aux environs ([**clichés**](bruciel.md) du site [bruciel.be](http://bruciel.brussels/)) |
-| [acte du 17.11.1955](acte_19551117.png) | &#x2612; texte surligné en jaune : [seuls les appartements bénéficient](art58.png) de chauffage ;<br>&#x2612; texte surligné en orange : paient le [combustible](art58.png) ;<br>&#x2612; les garages n'existent pas encore<br>&#x2612; les acquéreurs ne peuvent acheter que des appartements (une [tranche de 10% est payable à la livraison du chauffage](chapitre9_tranches.png))  |
-| [acte du 16.11.1956](acte_19561116.png) | &#x2612; les <font color="red"><b>unités de parking</b></font> <a href="#footnote"><b>note&middot;2&middot;</b></a> sont en sous-sol ;<br>&#x2612; elles sont destinées au [garage de véhicules de tous genres](art64_1956.png)<br>&#x2612; elles constituent un quatrième groupe "bloc"<br>&#x2612; les propriétaires d'unités de parking prennent part à 10% des dépenses du domaine (hors combustibles et chauffage)<br>&#x2612; la part des Blocs d'appartement est donc diminuée (de 1/3 à 30% des dépenses du domaine ; mais toujours 100% des combustibles et du chauffage) |
+| [acte du 27.07.1955](acte_19550727.png) | &#x2610; un immeuble formé de 3 blocs d'appartement<br>&#x2610; chaque bloc prend en charge 1/3 des dépenses du [domaine cadastré](https://docs.google.com/spreadsheets/d/1ROmm1ke82EWqpkRzyXTimypGZGgprYYY51rrutabcL4/edit?usp=sharing)<br>&#x2611; un immeuble destiné au [**logement de personnes**](art64_1955.png), et éventuellement aux professions libérales<br>&#x2612; un terrain en friche aux environs ([**clichés**](bruciel.md) du site [bruciel.be](http://bruciel.brussels/)) |
+| [acte du 17.11.1955](acte_19551117.png) | &#x2612; texte surligné en jaune : [seuls les appartements bénéficient](art58.png) de chauffage ;<br>&#x2612; texte surligné en orange : paient le [combustible](art58.png) ;<br>&#x2610; les garages n'existent pas encore<br>&#x2612; les acquéreurs ne peuvent acheter que des appartements (une [tranche de 10% est payable à la livraison du chauffage](chapitre9_tranches.png))  |
+| [acte du 16.11.1956](acte_19561116.png) | &#x2611; les <font color="red"><b>unités de parking</b></font> <a href="#footnote"><b>note&middot;2&middot;</b></a> sont en sous-sol ;<br>&#x2611; elles sont destinées au [garage de véhicules de tous genres](art64_1956.png)<br>&#x2612; elles constituent un quatrième groupe "bloc" ; le propriétaire cède un nombre très limité d'unités de parking à des acquéreurs privés afin de constituer une AG partielle<br>&#x2612; les propriétaires d'unités de parking prennent part à 10% des dépenses du domaine (hors combustibles et chauffage)<br>&#x2612; la part des Blocs d'appartement est donc diminuée (de 1/3 à 30% des dépenses du domaine ; mais toujours 100% des combustibles et du chauffage)<br>&#x2611; les dégagements en sous-sol (= <font color="red"><b>voies d'accès/de sortie</b></font> aux/des garages) sont des [parties spéciales du Bloc "Garages"](acte3_allees_garages.png) |
 
 
 &nbsp;
