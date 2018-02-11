@@ -5,7 +5,7 @@
 # Aspects juridiques
 
 * [Acte de base](acte_base.md) 
-* Règlement de copropriété
+* [Règlement de copropriété](reglement_copropriete.md)
     * Intégration des propositions du [Cabinet Arquin](Statuts_Conformes_2017.pdf)
     * Effets du double refus de l'AG
 * Litige Fontenelle
