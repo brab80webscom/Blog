@@ -12,7 +12,7 @@ La première page de l'Acte de Base tel que remis à tout acheteur d'un appartem
 2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue de l'Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)
 3. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
 
-> voir aussi la [description](bruciel.md) des plans de 1894 et des photos aériennes de 1930, 1944 et 1953
+> <font color="#b22222">voir aussi la [description](bruciel.md) des plans de 1881 et 1894, ainsi que des photos aériennes de 1930, 1944 et 1953</font>
 
 4. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence
