@@ -11,9 +11,7 @@ La première page de l'Acte de Base remis à tout acheteur d'un appartement apr�
 1. en 1894 a été construit un [dépôt de corbillards](http://www.irismonument.be/fr.Bruxelles_Extension_Est.Avenue_de_la_Brabanconne.html) dans le quadrilatère Brabançonne - Noyer - Luther - Abdication 
 2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue de l'Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)
 3. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
-
-> [Voir aussi la description de l'historique du lotissement](bruciel.md) <font color="#b22222"> : plans de 1881 et 1894 ; photos aériennes de 1930, 1944 et 1953</font>
-
+    * [Voir aussi la description de l'historique du lotissement](bruciel.md) <font color="#b22222"> : plans de 1881 et 1894 ; photos aériennes de 1930, 1944 et 1953</font>
 4. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
 résidence
 5. le cahier de charges, enregistré le 01.08.1955, prévoit la construction de [153 appartements](CdeCh_objet.png) et exclut à ce stade les spécifications techniques pour les [chauffage et construction de garages](CdCh_art1.png) 
