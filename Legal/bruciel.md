@@ -11,7 +11,7 @@ Il se prolongeait également au-delà de la Chaussée de Louvain à hauteur de l
 # 1893-1895
 
 Un dépôt de corbillards est construit sur une partie réduite du cimetière.  
-Les rues avoisinantes (Inquisition, Calvi, Charles Quint, Campenhout) ne sont pas encore bâties.
+Les rues avoisinantes (Inquisition, Calvin, Charles Quint, Campenhout) ne sont pas encore bâties.
 
 ![](depot_1894.png)
 
