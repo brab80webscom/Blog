@@ -6,7 +6,7 @@
 
 Régulièrement, il est suggéré de sensibiliser davantage les occupants au respect de certaines règles de civilité.
 
-L'article 3 ("*Occupation de l'habitation*") du [ROI du Logement bruxellois](https://bobjr-1.github.io/Temp/Revue_ROI/ROI_Logement_Bxl_2016.pdf) énumère un certain nombre de points sur lesquels une attention gagne à être portée :  
+L'article 3 ("*Occupation de l'habitation*") du [ROI du Logement bruxellois](ROI_Logement_Bxl_2016.pdf) énumère un certain nombre de points sur lesquels une attention gagne à être portée :  
 
 * "*ne pas faire de travaux et [...] ne pas déplacer des meubles et objets durant la soirée et la nuit (c’est-à-dire entre 22 heures et 7 heures) ainsi que les dimanches et jours fériés*" ;  
 * "[veiller] *à ce que les enfants [...] ne crient pas et n’utilisent pas de jeux bruyants*" ;
