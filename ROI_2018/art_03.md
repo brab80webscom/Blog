@@ -1,3 +1,7 @@
+## Article 3. Accès aux logements
+
+![](icon_feedback.png "Vivre ensemble")
+
 Il est proposé de modifier l'article 3 du Règlement d'ordre intérieur de la manière suivante  (majorité simple) :
 
 **03.1.**  
