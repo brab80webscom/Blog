@@ -6,7 +6,7 @@
 
 # 2018
 
-* [**23.01.2018**](20180123.md)<br>Le jugement en appel déboute l'ACP et confirme le jugement du Juge de Paix en toutes ses dispositions
+* [**23.01.2018**](20180123.md)<br>Le jugement en appel déboute l'ACP<br>Le Juge de Paix est confirmé en toutes ses dispositions
 
 # 2017
 
