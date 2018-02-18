@@ -4,6 +4,7 @@
 
 # Aspects juridiques
 
+* [Données cadastrales](cadastre.md) 
 * [Acte de base](acte_base.md) 
 * [Règlement de copropriété](reglement_copropriete.md)
     * Intégration des propositions du [Cabinet Arquin](Statuts_Conformes_2017.pdf)
