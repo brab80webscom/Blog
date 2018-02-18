@@ -8,21 +8,21 @@ La première page de l'Acte de Base remis à tout acheteur d'un appartement apr�
 
 > <font color="#b22222">( Voir les points <b>4.</b>, <b>7.</b> et <b>8.</b> ci-dessous )</font>
 
-1. en 1894 a été construit un [dépôt de corbillards](http://www.irismonument.be/fr.Bruxelles_Extension_Est.Avenue_de_la_Brabanconne.html) dans le quadrilatère Brabançonne - Noyer - Luther - Abdication 
-2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue de l'Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)
+1. en 1894 a été construit un [dépôt de corbillards](http://www.irismonument.be/fr.Bruxelles_Extension_Est.Avenue_de_la_Brabanconne.html) dans le quadrilatère Brabançonne - Noyer - Luther - Abdication<br>&nbsp; 
+2. le [terrain appartenait à la Ville de Bruxelles](acte2_p2.png) ; il resta désaffecté depuis les bombardements de la seconde guerre mondiale ; au coin de la rue de l'Abdication et de la rue Luther demeurait une [sous-station d'électricité](1894.png)<br>&nbsp;
 3. le 13 octobre 1950, la Ville de Bruxelles met en vente le terrain cadastré (non bâti) à la "*Société Anonyme des Habitations à Bon Marché de l'Agglomération Bruxelloise*" (SAHBMAB)
     * [Voir aussi la description de l'historique du lotissement](bruciel.md) <font color="#b22222"> : plans de 1881 et 1894 ; photos aériennes de 1930, 1944 et 1953</font>
 4. <u>premier acte fondateur :</u> acte du 27 juillet 1955 de Maître Edmond MORREN organisant les statuts d’indivision et de copropriété forcée de la
-résidence
-5. le cahier de charges, enregistré le 01.08.1955, prévoit la construction de [153 appartements](CdeCh_objet.png) et exclut à ce stade les spécifications techniques pour les [chauffage et construction de garages](CdeCh_art1.png) 
+résidence<br>&nbsp;
+5. le cahier de charges, enregistré le 01.08.1955, prévoit la construction de [153 appartements](CdeCh_objet.png) et exclut à ce stade les spécifications techniques pour les [chauffage et construction de garages](CdeCh_art1.png)<br>&nbsp; 
 6. cet acte comporte des [dispositions transitoires](Acte_Base_dispositions_transitoires.pdf) ("Chapitres VII, VII et IX") par lequel la SAHBMAB peut :
     * modifier les règles [sans passer par une AG](acte1_chapitre7.png) ;
     * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
     * et ce, [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
     * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales (*blocs*) qu'elle souhaite](acte1_chapitre7.png) ;
     * de l'organisation des parties de l'immeuble qui en découlent naissent des [servitudes](servitude.md) qui s'imposent aux *blocs*
-7. <u>deuxième acte fondateur :</u> [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) du règlement de copropriété
-8. <u>troisième acte fondateur :</u> [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
+7. <u>deuxième acte fondateur :</u> [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) du règlement de copropriété<br>&nbsp;
+8. <u>troisième acte fondateur :</u> [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement<br>&nbsp;
 9. ce qu'en a dit le Juge de Paix, dans sa décision du 26.05.2016 :
     * [l'acte de base est souverain](acte_in_JP2016_1.png) pour déterminer la répartition des frais ;
     * il n'est [pas logique](acte_in_JP2016_2.png) pour un propriétaire d'appartement de supporter des frais qui ne lui profitent nullement ;
