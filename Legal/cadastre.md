@@ -21,9 +21,19 @@ Comme consigné dans les trois actes successifs des 27.07.1955, 17.11.1955 et 16
 
 ### Surfaces aménagées par la SAHBMAB<br>{bâtiment + pelouses et haies}
 
-Le périmètre de mesure fourni par le [site du cadastre](http://www.cadastre.be/Belgique/Bruxelles_Capitale/Bruxelles) (SPF Finances) limite la surface à quelque 4.670 m<sup>3</sup>.
+Le périmètre de mesure fourni par le [site du cadastre](http://www.cadastre.be/Belgique/Bruxelles_Capitale/Bruxelles) (SPF Finances) limite la surface à quelque 4.670 m<sup>2</sup>.
 
-> Raison de cette différence : la parcelle enregistrée en 1950 au cadastre s'étendait jusqu'à la moitié de largeur des quatre chaussées.
+> Raison de cette différence : la parcelle enregistrée en 1950 au cadastre s'étendait en fait jusqu'à la moitié de la largeur des quatre chaussées.
 
 ![](cad_3.png)
+
+### Surface du bâtiment d'habitation
+
+Les distances de mesure fournies par le site du cadastre, indiquent que, pour le <font color="red"><b>bâtiment proprement dit</b></font> :
+
+* la longueur est de 85 m ;
+* la largeur est de 16,5 m,
+
+soit une surface approximative légèrement supérieure à 1.400 m<sup>2</sup>.
+
 
