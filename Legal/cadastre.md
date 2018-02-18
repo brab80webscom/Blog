@@ -23,7 +23,7 @@ Comme consigné dans les trois actes successifs des 27.07.1955, 17.11.1955 et 16
 
 Le périmètre de mesure fourni par le [site du cadastre](http://www.cadastre.be/Belgique/Bruxelles_Capitale/Bruxelles) (SPF Finances) limite la surface à quelque 4.670 m&sup2;.
 
-> Raison de cette différence : la parcelle enregistrée en 1950 au cadastre s'étendait en fait jusqu'à la moitié de la largeur des quatre chaussées pour permettre à la Ville de Bruxelles d'installer des arbres et/ou des trottoirs en guise de servitude.
+> Raison de cette différence : la parcelle enregistrée en 1950 au cadastre s'étendait en fait jusqu'à la moitié de la largeur des quatre chaussées pour permettre à la Ville de Bruxelles d'installer des arbres et/ou des trottoirs en guise de [servitude](servitude.md).
 
 ![](cad_3.png)
 
