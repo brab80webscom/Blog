@@ -19,7 +19,8 @@ résidence
     * modifier les règles [sans passer par une AG](acte1_chapitre7.png) ;
     * car la SAHBMAB est toujours [réputée être la seule copropriétaire](acte2_p2_2.png) ;
     * et ce, [jusqu'au 30.11.1956](acte1_chapitre9.png) ;
-    * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales qu'elle souhaite](acte1_chapitre7.png)
+    * la SAHBMAB peut aller jusqu'à créer (= définir) [autant de parties spéciales (*blocs*) qu'elle souhaite](acte1_chapitre7.png) ;
+    * de l'organisation des parties de l'immeuble qui en découlent naissent des [servitudes](servitude.md) qui s'imposent aux *blocs*
 7. <u>deuxième acte fondateur :</u> [acte modificatif du 17 novembre 1955](acte2_19551117.pdf) concernant l'article 58  ( <a href="#footnote"><b>note &middot;1&middot;</b></a> ) du règlement de copropriété
 8. <u>troisième acte fondateur :</u> [acte modificatif du 16 novembre 1956](acte3_19561116.pdf) en vue de créer la division de local garages et de la création de parties communes spéciales servant de dégagement
 9. ce qu'en a dit le Juge de Paix, dans sa décision du 26.05.2016 :
