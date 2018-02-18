@@ -20,12 +20,12 @@ Les pages 144 et suivantes de l'Acte de Base remis à tout acheteur d'un apparte
 
 | Dans le cas de la Brabançonne | &nbsp; |
 | --- | --- |
-| **Pour les appartements** | **Pour les garages** |
+| **à 100% pour les appartements** | **à 100% pour les garages** |
 | les étages `-1` à `12`   | (de manière générale)<br>ce qui est à l'étage `-2`<br>(2 niveaux  x 2 ailes<br>["*Brabançonne*" et "*Luther*"]) |
 | les portes et halls d'entrée  | les portes et rampes d'accès |
 | les ascenseurs  | les allées des garages<br>(elles servent de dégagement) |
 | la chaufferie  | les escaliers menant<br>à la première porte<br>en direction des ascenseurs `-2` |
 | les locaux où se trouvent<br>les compteurs de gaz  | &nbsp; |
-| les caves et l'espace situé<br>après la première porte<br>en venant des ascenseurs `-2`  | &nbsp; |
+| les caves + l'espace situé<br>après la première porte<br>en venant des ascenseurs `-2`  | &nbsp; |
 
 
