@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="normal4.css" type="text/css" />
 <link rel="stylesheet" href="normal3.css" type="text/css" />
 
 ![](icon_justice.png)
@@ -8,7 +9,9 @@ L'article 682 du Code Civil prévoit ce qui suit :
 
 *Le propriétaire dont le fonds est enclavé parce qu'il n'a aucune issue ou qu'il n'a qu'une issue insuffisante sur la voie publique, qui ne peut être aménagée sans frais ou inconvénients excessifs, peut réclamer un passage sur le fonds de ses voisins pour l'utilisation normale de sa propriété d'après sa destination, moyennant paiement d'une indemnité proportionnée au dommage qu’il peut occasionner.*
 
-Dans le cas de la Brabançonne, diverses servitudes sont établies explicitement dans l'Acte de Base.
+| Dans le cas de la Brabançonne |
+| --- |
+| Diverses servitudes sont établies explicitement dans l'Acte de Base. |
 
 ### Jurisprudence
 
