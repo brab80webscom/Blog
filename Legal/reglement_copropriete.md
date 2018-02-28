@@ -25,7 +25,17 @@ Les pages 144 et suivantes de l'Acte de Base remis à tout acheteur d'un apparte
 | les portes et halls d'entrée  | les portes et rampes d'accès |
 | les ascenseurs  | les allées des garages<br>(elles servent de dégagement) |
 | la chaufferie  | les escaliers menant<br>à la première porte<br>en direction des ascenseurs `-2` |
-| les locaux où se trouvent<br>les compteurs de gaz  | &nbsp; |
+| les locaux où se trouvent<br>les compteurs de gaz  | dalle en béton recouvrant<br>les garages<br> [Juge de Paix](JP_Bxl_20160527.pdf) 27.05.2016  |
 | les caves + l'espace situé<br>après la première porte<br>en venant des ascenseurs `-2`  | &nbsp; |
 
+---
+
+| Restent à 100% communs |
+| --- |
+| pelouses ("*jardins*") et voie carrosable |
+| 3 locaux des concierges |
+| 3 caves des concierges |
+| salaires du (des) concierge(s) |
+| honoraires du syndic |
+| primes d'assurances |
 

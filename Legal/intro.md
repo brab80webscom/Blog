@@ -11,7 +11,7 @@
     * Effets du double refus de l'AG
 * Litige Fontenelle
     * [Texte du jugement](TPI_Fontenelle_20160509.pdf)
-    * Acquis du jugement
+    * [Acquis du jugement](acquis_Fontenelle.md)
 * Litige Maurino & consorts
     * Texte de la décision du [Juge de Paix](JP_Bxl_20160527.pdf)
     * Acquis de la décision
