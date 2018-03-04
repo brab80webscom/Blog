@@ -14,7 +14,6 @@
     * [Acquis du jugement](acquis_Fontenelle.md)
 * Litige Maurino & consorts
     * Texte de la décision du [Juge de Paix](JP_Bxl_20160527.pdf)
-    * Acquis de la décision
     * Texte du jugement en [appel](20180123_Appel.pdf)
-    * Acquis du jugement en appel
+    * [Acquis du jugement après appel](acquis_juge_paix.md)
 
