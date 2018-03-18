@@ -6,4 +6,4 @@
 
 * [Devoirs accomplis](Devoirs.md)
 * [Consommations de mazout](Mazout.md)
-* Retours demandés par les copropriétaires sur l'[Inventaire 2011-2013](Inventaire.md)
+* [Retours demandés sur l' Inventaire 2011-2013](Inventaire.md)
