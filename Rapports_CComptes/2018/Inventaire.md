@@ -38,9 +38,9 @@ Il lui a été répondu le 18.04.2017 (15:10) que si "*il s’avérait que*" ses
 | [Réponse complète à Mme De Vos](http://nimb.ws/g0MNLf) |
 | --- |
 
-Au terme de mes investigations, je recommande en effet de faire grâce au copropriétaire DE VOS Anne-Marie, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2() diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
+Au terme de mes investigations, je recommande en effet de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2() diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
 
-Dans ce rapport, il avait été constaté (sans contestation ultérieurement reçue) que Mme De Vos appartenait au Groupe C (= ) et que ses arriérés étaient de **1. 481,78 &euro;**
+Dans ce rapport, il avait été constaté (sans contestation ultérieurement reçue) que Mme De Vos appartenait au Groupe C (=  copropriétaires dont le volume des arriérés est resté similaire (voire identique) entre la fin de la gestion du syndic précédent et le 19 décembre 2013) et que ses arriérés étaient de <font color="red"><b>1. 481,78 &euro;</b></font>
 
 #### au-delà des trois mois
 
