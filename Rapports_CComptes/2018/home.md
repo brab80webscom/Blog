@@ -4,6 +4,7 @@
 
 # Rapport destiné à l'AG 2018
 
+* Introduction. [Plan du rapport](Intro_2018.pdf)
 * Chapitre 1. [Devoirs accomplis](Devoirs.md)
 * Chapitre 2. [Comptabilisation définitive des dépens](Depens.md)
 * Chapitre 3. [Retours sur  l' Inventaire 2011-13](Inventaire.md)
