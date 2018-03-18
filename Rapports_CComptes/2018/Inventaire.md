@@ -51,6 +51,7 @@ Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C
 
 #### au-delà des trois mois
 
+* Le copropriétaire PREDA-CARAUSU a déclaré renoncer à la grâce qui lui avait été accordée par l'inventaire ; le ménage a acquitté le montant de 1.199,65 &euro; vers la fin du mois de juin 2017 ;
 * Le copropriétaire VERHEUGEN a déclaré renoncer à la grâce qui lui avait été accordée par l'inventaire ; il a acquitté le montant de 1.301,73 &euro; vers la fin du mois de juin 2017 ;
 * Par mon courriel du 22.12.2017 (12:47), j'ai confirmé pour bonne information et référence au Syndic et à l'avocat (F. Devulder) qu'une grâce avait été accordée par l'inventaire (non contesté au-delà de trois mois), à concurrence de **2.736,43 &euro;** au copropriétaire **DE GREEF - VACARESCU**
 

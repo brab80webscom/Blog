@@ -22,4 +22,7 @@
 | 08.12.2017 18:49 | Transmis [lettre Devulder](Devulder_20181205.pdf)<br>Appel plaidé le 04.12.2017  |
 | 15.12.2017 14:08 | Facture mazout 04.12.2017  |
 | 15.12.2017 19:26 | [Suivi de l'inventaire](Inventaire.md)<br>Confirmation de la grâce accordée à M. et Mme De Greef-Vacarescu |
+| 04.01.2018 13:39 | Factures mazout 20.12.2017, 27.12.2017  |
+| 08.01.2018 13:09 | Demande des factures des 6 derniers mois<br>et de l'état des arriérés au 31.12.2017 |
+| 22.01.2018 10:36 | Réception des factures des 6 derniers mois<br>et de l'état des arriérés au 31.12.2017 |
 
