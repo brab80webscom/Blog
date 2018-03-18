@@ -25,4 +25,7 @@
 | 04.01.2018 13:39 | Factures mazout 20.12.2017, 27.12.2017  |
 | 08.01.2018 13:09 | Demande des factures des 6 derniers mois<br>et de l'état des arriérés au 31.12.2017 |
 | 22.01.2018 10:36 | Réception des factures des 6 derniers mois<br>et de l'état des arriérés au 31.12.2017 |
+| 26.01.2018 10:37 | Nouvelle législation à Bruxelles<br>([parts de charges](http://nimb.ws/jOh6eF) locataires/propriétaires)  |
+| 13.02.2018 09:54 | Réception des comptes généraux 2017 |
+| 19.02.2018 20:06 | Demande de M. et Mme Preda-Carausu<br>à propos des charges d'ascenseurs |
 

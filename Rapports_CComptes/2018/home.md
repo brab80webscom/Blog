@@ -4,7 +4,7 @@
 
 # Rapport destiné à l'AG 2018
 
-* Introduction. [**Plan du rapport**](Intro_2018.pdf)
+* [Plan du rapport](Intro_2018.pdf)
 * [Chapitre 1.](Chap1.pdf)
     * [Devoirs accomplis](Devoirs.md)
 * [Chapitre 2.](Chap2.pdf)
