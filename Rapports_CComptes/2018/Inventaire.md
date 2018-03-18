@@ -34,15 +34,15 @@ Le Commissaire aux comptes en charge du contrôle des comptes des années 2011, 
 
 * Le 18.04.2017 (12:03), le Commissaire aux comptes a reçu de Mme De Vos un courriel dans lequel elle concluait par la formule "*Ayant eu davantage de confiance dans la gestion de Managimm, j’ai mis en &oelig;uvre un plan d’apurement de cet arriéré, mais je m’aperçois (et certains de mes échanges récents avec la comptable Mme Jorquera vous l’ont sans doute montré) que <u>j’ignore toujours si le point de départ correct de mes prétendus arriérés à la fin de la gestion de Regimo a été établi</u>.* 
 
-Il lui a été répondu le 18.04.2017 (15:10) que si "*il s’avérait que*" ses "*arriérés de charges*" avaient "*uniquement pris de l’ampleur au cours de la période d’inventaire*", "*il irait alors de soi que*" la grâce serait recommandée "*à concurrence du montant dû*" "*au 19 décembre 2013"*
+Il lui a été répondu le 18.04.2017 (15:10) que si "*il s’avérait que*" ses "*arriérés de charges*" avaient "*uniquement pris de l’ampleur au cours de la période d’inventaire*", "*il irait alors de soi que*" la grâce serait recommandée "*à concurrence du montant dû*" "*au 19 décembre 2013"*.
 
 | En savoir plus |
 | --- |
-| [Réponse complète faite à Mme De Vos](http://nimb.ws/g0MNLf) |
+| [**Réponse complète faite à Mme De Vos**](http://nimb.ws/g0MNLf) |
 
-Au terme de mes investigations, je recommande en effet de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2() diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
+Au terme de mes investigations, je recommande de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2](https://brab80webscom.github.io/Blog/Rapports_CComptes/2014/Rapport_interimaire_2.pdf) diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
 
-Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C (=  copropriétaires dont le volume des arriérés est resté similaire (voire identique) entre la fin de la gestion du syndic précédent et le 19 décembre 2013) et que ses arriérés étaient de <font color="red"><b>1. 481,78 &euro;</b></font> au 19.12.2013.
+Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C (=  copropriétaires dont le volume des arriérés est resté similaire entre la fin de la gestion du syndic précédent et le 19.12.2013) et que ses arriérés étaient de <font color="red"><b><u>1. 481,78 &euro;</u></b></font> au 19.12.2013.
 
 #### au-delà des trois mois
 
