@@ -51,4 +51,9 @@ Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C
 
 #### au-delà des trois mois
 
-* (Vacarescu à compléter ici)
+* Par mon courriel du 22.12.2017 (12:47), j'ai confirmé pour bonne information et référence au Syndic et à l'avocat (F. Devulder) qu'une grâce avait été accordée par l'inventaire (non contesté au-delà de trois mois), à concurrence de **2.736,43 &euro;**
+
+| En savoir plus |
+| --- |
+| [**Mise au point faite au Syndic et à l'avocat**](http://nimb.ws/QvHRL8) |
+
