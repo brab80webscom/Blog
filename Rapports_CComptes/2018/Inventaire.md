@@ -40,9 +40,14 @@ Il lui a été répondu le 18.04.2017 (15:10) que si "*il s’avérait que*" ses
 | --- |
 | [**Réponse complète faite à Mme De Vos**](http://nimb.ws/g0MNLf) |
 
-Au terme de mes investigations, je recommande de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2](https://brab80webscom.github.io/Blog/Rapports_CComptes/2014/Rapport_interimaire_2.pdf) diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
+Au terme de mes investigations,
 
-Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C (=  copropriétaires dont le volume des arriérés est resté similaire entre la fin de la gestion du syndic précédent et le 19.12.2013) et que ses arriérés étaient de <font color="red"><b><u>1. 481,78 &euro;</u></b></font> au 19.12.2013.
+* au vu des doutes exprimés par la copropriétaire concernée quant à l'établissement des charges dues par la *SA Regimo NV*, et
+* en raison des manquements constatés par l'inventaire du syndic *SA Regimo NV* à sa 7° mission légale du 01.01.2011 au 30.06.2013,
+
+je recommande de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2](https://brab80webscom.github.io/Blog/Rapports_CComptes/2014/Rapport_interimaire_2.pdf) diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
+
+Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C (=  copropriétaires dont le volume des arriérés est resté similaire entre la fin de la gestion du syndic précédent et le 19.12.2013) et que ses arriérés étaient de **1. 481,78 &euro;** au 19.12.2013.
 
 #### au-delà des trois mois
 
