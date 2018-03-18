@@ -51,4 +51,4 @@ Dans ce rapport, il avait été constaté que Mme De Vos appartenait au Groupe C
 
 #### au-delà des trois mois
 
-* (néant)
+* (Vacarescu à compléter ici)

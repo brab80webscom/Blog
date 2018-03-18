@@ -13,6 +13,7 @@
 | 17.02.2017 | 6.403 | 3.565,24 | 
 | 24.02.2017 | 9.174 | 5.107,41 | 
 | 20.03.2017 | 12.323 | 6.443,24 | 
+| 26.04.2017 | 19.190 | 10.460,33 | 
 
 La facture du 9 janvier 2017 se rapportant à des consommations de décembre 2016, elle a été imputée avant la clôture des comptes 2016.
 
