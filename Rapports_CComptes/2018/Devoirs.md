@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="normal4.css">
 
+![](icon_earn.png)
+
 # Devoirs accomplis
 
 | Courriels | Contenu |
