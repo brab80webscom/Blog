@@ -28,7 +28,7 @@ Le Commissaire aux comptes en charge du contrôle des comptes des années 2011, 
 
 * (néant)
 
-### Pour (a)  : demandes relatives à la 7° mission légale 
+### Pour (b)  : demandes relatives à la 7° mission légale 
 
 #### dans les trois mois de l'AG
 

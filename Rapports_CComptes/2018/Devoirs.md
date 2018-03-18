@@ -13,4 +13,11 @@
 | 05.04.2017 17:50 | Facture mazout 20.03.2017 |
 | 18.04.2017 12:03 | [Suivi de l'inventaire](Inventaire.md)<br>Origine des arriérés de Mme De Vos |
 | 05.05.2017 17:25 | Facture mazout 26.04.2017 |
+| 26.05.2017 16:33 | Facture mazout 02.05.2017 |
+| 17.07.2017 16:21 | Demande des factures des 6 premiers mois<br>et de l'état des arriérés au 30.06.2017 |
+| 27.07.2017 16:57 | Réception des factures des 6 premiers mois<br>et de l'état des arriérés au 30.06.2017 |
+| 26.09.2017 09:23 | Facture mazout 15.09.2017 |
+| 10.11.2017 11:09 | Facture mazout 06.11.2017  |
+| 17.11.2017 13:11 | Facture mazout 14.11.2017  |
+| 08.12.2017 18:49 | Transmis [lettre Devulder](Devulder_20181205.pdf)<br>Appel plaidé le 04.12.2017  |
 
