@@ -6,9 +6,9 @@
 
 Il avait  été conclu de cet inventaire demandé par l'AG 2016, et délivré en avance de l'AG du 07.03.2017, que :
 
-* **(a)** le syndic *SA Regimo sprl* avait failli à ses [3°](https://sites.google.com/site/brab80invent2016/lien-contractuel-non-autorise-par-l-ag), [5°](https://sites.google.com/site/brab80invent2016/conclusions---comptes-financiers), [14°](https://sites.google.com/site/brab80invent2016/surfacturations-de-mazout-de-chauffage) et [18°](https://sites.google.com/site/brab80invent2016/respect-du-budget) missions légales
+* **(a)** le syndic *SA Regimo NV* avait failli à ses [3°](https://sites.google.com/site/brab80invent2016/lien-contractuel-non-autorise-par-l-ag), [5°](https://sites.google.com/site/brab80invent2016/conclusions---comptes-financiers), [14°](https://sites.google.com/site/brab80invent2016/surfacturations-de-mazout-de-chauffage) et [18°](https://sites.google.com/site/brab80invent2016/respect-du-budget) missions légales
 * **(b)** ce syndic a également failli à sa 7° mission légale (fournir le relevé des dettes et prendre des mesures pour les récupérer) ; ce qui amena les auteurs de l'inventaire à recommander des [grâces partielles de paiement des charges 2011-2013](https://sites.google.com/site/brab80invent2016/rectification-de-charges-de-coproprietaires-individuels) pour deux copropriétaires et un [abandon des poursuites](https://sites.google.com/site/brab80invent2016/abandon-des-poursuites-aupres-des-debiteurs) pour  quatre autres copropriétaires 
-* **(c)** en vertu de l' Article 83 du [Code déontologique de l'I.P.I.](http://www.ipi.be/lagent-immobilier/la-deontologie-de-lagent-immobilier) , le Syndic SA Regimo NV reste tenu à l'obligation de tenir les pièces justificatives relatives aux décomptes, ainsi qu’un état détaillé du patrimoine, à disposition encore cinq années après une décision positive de l'Assemblée Générale d'approuver ses comptes, ses bilans et sa décharge.
+* **(c)** en vertu de l' Article 83 du [Code déontologique de l'I.P.I.](http://www.ipi.be/lagent-immobilier/la-deontologie-de-lagent-immobilier) , le syndic *SA Regimo NV* reste tenu à l'obligation de tenir les pièces justificatives relatives aux décomptes, ainsi qu’un état détaillé du patrimoine, à disposition encore cinq années après une décision positive de l'Assemblée Générale d'approuver ses comptes, ses bilans et sa décharge.
 
 Les copropriétaires disposaient donc de beaucoup de temps à partir de l'AG du 07.03.2017 avant d'être contraints de se prononcer quant à l'opportunité de faire valoir leurs droits, ou d'y renoncer.
 
@@ -16,6 +16,7 @@ Le Commissaire aux comptes en charge du contrôle des comptes des années 2011, 
 
 | [Ensemble des conclusions](https://sites.google.com/site/brab80invent2016/conclusions) |
 | --- |
+| &nbsp; |
 
 ### Critiques ou opinions négatives reçues sur (a) et (c)
 
@@ -37,6 +38,7 @@ Il lui a été répondu le 18.04.2017 (15:10) que si "*il s’avérait que*" ses
 
 | [Réponse complète à Mme De Vos](http://nimb.ws/g0MNLf) |
 | --- |
+| &nbsp; |
 
 Au terme de mes investigations, je recommande en effet de <font color="red"><b>faire grâce au copropriétaire DE VOS Anne-Marie</b></font>, du montant de ses arriérés de charge tel qu'il s'établissait au montant consigné dans mon [Rapport intérimaire #2() diffusé aux copropriétaires en vue de l'AG du 27.02.2014.
 
