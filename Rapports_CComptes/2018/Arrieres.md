@@ -15,7 +15,7 @@ La "balance copropriétaires" communiquée par les services comptables du Syndic
 | ![](Histor_arrieres.png) |
 
 Au 30.06.2017, les arriérés de charges communiqués par le Syndic (le 27.07.2017 16h57) étaient pointés à 20.058,68 &euro;.  
-Toutefois, cette somme ne tenait pas compte des [grâces partielles(https://sites.google.com/site/brab80invent2016/rectification-de-charges-de-coproprietaires-individuels)] et [abandons de poursuites](https://sites.google.com/site/brab80invent2016/abandon-des-poursuites-aupres-des-debiteurs) accordés au terme de l'inventaire communiqué à l'AG du 07.03.2017.
+Toutefois, cette somme ne tenait pas compte des [grâces partielles](https://sites.google.com/site/brab80invent2016/rectification-de-charges-de-coproprietaires-individuels) et [abandons de poursuites](https://sites.google.com/site/brab80invent2016/abandon-des-poursuites-aupres-des-debiteurs) accordés au terme de l'inventaire communiqué à l'AG du 07.03.2017.
 
 > Compte tenu de la renonciation des copropriétaires PREDA-CARAUSU et VERHEUGEN à en bénéficier, un montant de 5.690,11 &euro; représentant ces grâces et abandons de poursuite.
 
@@ -29,11 +29,7 @@ Le tableau de fin d'exercice se présente donc comme suit :
 
 Tout dans tout, compte tenu de l'inventaire (non contesté dans les trois mois de l'AG du 07.03.2017), il ne reste donc plus que <font color="red"><b><u>6.560,47 &euro;</u> de charges en souffrance</b></font>.
 
-----
-
-Parmi les succès rencontrés par l'avocat au cours de l'année 2017, il convient de relever l'extinction des dettes des copropriétaires REMICHE, HANNA ISSA et VELKOV-STOYANOVA.
-
----
+> Parmi les succès rencontrés par l'avocat au cours de l'année 2017, il convient de relever l'extinction des dettes des copropriétaires REMICHE, HANNA ISSA et VELKOV-STOYANOVA.
 
 Afin de guider le Syndic (comptabilisation) et l'avocat (pour ce qui est des poursuites) pour les bénéficiaires de grâces au terme de l'inventaire, le tableau suivant est établi :
 
