@@ -18,7 +18,7 @@
 ### Frais communiqués par les parties
 
 * 23.02.2018 :<br>
-lors de la visite effectuée pour le contrôle des comptes, le syndic a pris connaissance des honoraires facturés par l'avocat Devulder depuis le 01.01.2015
+lors de la visite effectuée pour le contrôle des comptes, le syndic a coomuniqué les justificatifs des honoraires facturés par l'avocat Devulder depuis le 01.01.2015
 
 | Date | Nature de dépense | &nbsp; |
 | --- | --- | ---: |
@@ -27,7 +27,7 @@ lors de la visite effectuée pour le contrôle des comptes, le syndic a pris con
 | 31.12.2006 |Indemnité procédure + citation Maurino | 1626,55 |
 
 * 28.02.2018<br>
-communication par M. DE GREEF des frais de défense encourrus depuis le 01.01.2015
+communication par M. DE GREEF des frais de défense exposés depuis le 01.01.2015 (avec justificatifs)
 
 | Date | Nature de dépense | &nbsp; |
 | --- | --- | ---: |
@@ -36,9 +36,9 @@ communication par M. DE GREEF des frais de défense encourrus depuis le 01.01.20
 | 2016 | Frais d'avocats (3 familles) | 8.341,50 &euro; |
 | 12.09.2016 | Notification Jugement à l'ACP | 243,90 &euro; |
 | 2017 | Frais d'avocats (appel Van der Veken) | 2.500,00 &euro; |
-| 2017 | Frais d'avocats (appel Mostin) | (*) |
+| 2017 | Frais d'avocats (appel Mostin) | (****) |
 
-(*) = montant non connu de M. DE GREEF. Pas de réponse à ce jour de M. MAURINO.
+(****) = montant non connu de M. DE GREEF.<br>Pas encore de montant fourni par M. MAURINO.
 
 ### Taux d'intérêt légaux applicables
 
