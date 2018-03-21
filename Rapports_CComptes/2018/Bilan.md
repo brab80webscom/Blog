@@ -2,7 +2,7 @@
 
 ![](icon_earn.png)
 
-# Bilan dressé au 31 décembre 2017
+# Bilan dressé au 31.12.2017
 
 ### Passif
 
