@@ -12,11 +12,15 @@
 
 ### Avant le jugement de l'appel
 
-* Novembre 2018 :<br>Article du mensuel "*Le Cri*" du SNPC sur les [honoraires d'avocat](Cri_418.pdf)
-* 08.12.2018 :<br>Affaire plaidée en [appel le 04.12.2018](Devulder_20181205.pdf)
+* Novembre 2017 :<br>Article du mensuel "*Le Cri*" du SNPC sur les [honoraires d'avocat](Cri_418.pdf)
+* 08.12.2017 :<br>Affaire plaidée en [appel le 04.12.2018](Devulder_20181205.pdf)
 
-### Frais communiqués par les parties
+### Frais déclarés par les parties
 
+* 31.12.2016 :<br>
+au passif du bilan est inscrite la somme de 1.626,55 &euro; en provision pour régler les frais de procédure du jugement soumis à appel.
+* 31.12.2016 :<br>
+comme montant pour ordre est inscrit le montant de 34.224,05 &euro; (dépens de l'affaire Fontenelle)
 * 23.02.2018 :<br>
 lors de la visite effectuée pour le contrôle des comptes, le syndic a coomuniqué les justificatifs des honoraires facturés par l'avocat Devulder depuis le 01.01.2015
 

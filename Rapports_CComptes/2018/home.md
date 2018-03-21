@@ -12,8 +12,8 @@
 * [Chapitre 3.](Chap3.pdf)
     * [Retours sur  l' Inventaire 2011-13](Inventaire.md)
 * [Chapitre 4.](Chap4.pdf)
-    * Bilans de fin d'exercice
-    * Fonds de réserve
+    * [Bilans de fin d'exercice](Bilan.md)
+    * [Fonds de réserve](Fds_reserve.md)
     * [Consommations de mazout](Mazout.md)
     * [Vers une disparition des arriérés de charges](Arrieres.md)
 * [Chapitre 5. et Annexe au rapport 2018](Chap5.pdf)
