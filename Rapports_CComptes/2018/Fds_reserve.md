@@ -30,7 +30,10 @@ En tant que Commissaire aux comptes, je n'ai pas émis d'objection.
 
 J'invite néanmoins les copropriétaires à examiner le `pour` et le `contre` de cette allocation nouvelle, en fonction de leurs anticipations de travaux de rénovation et/ou d'embellissement des différentes parties de l'immeuble (sous-sols, façades, ascenseurs, ...)
 
-Il est rappelé que pour faire face à ses risques et ses charges futures (quelquefois aléatoires), une ACP doit s'auto-financer. Ce qui implique qu'elle doit pouvoir disposer de fonds de réserves (général ou spécifiques) suffisamment alimentés par rapport à sa planification pluriannuelle des travaux.
+Il est rappelé que pour faire face à ses risques et ses charges futurs (quelquefois aléatoires), une ACP doit s'auto-financer. Ce qui implique qu'elle doit pouvoir disposer de fonds de réserve (général et/ou spécifiques à tel ou tel chantier ou projet) suffisamment alimentés par rapport à la planification pluriannuelle des travaux.
+
+> Pour aboutir à une telle <u>programmation pluriannuelle</u> permettant d'ajuster les propositions budgétaires et les appels de fonds, le Syndic gagnerait à <u>consulter régulièrement le conseil de copropriété</u>, de telle manière à ce que celui-ci puisse, au moyen du rapport semestriel écrit auquel il est tenu, préparer les esprits bien en amont des AG 2019 et suivantes.
+
 
 
 
