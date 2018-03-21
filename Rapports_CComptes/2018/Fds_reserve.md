@@ -20,3 +20,17 @@ La 5° mission légale du syndic consiste à "*'administrer les fonds de l'assoc
 
 Au 31.12.2017, le syndic a respecté cette mission.
 
+### Les Fonds de réserve est-il trop gros ?
+
+Pas leur courriel du 13.02.2017 (09h54), les services comptables du Syndic m'ont demandé ce que je pensais de la proposition telle que rédigée sous le Point 8.2 de l'ordre du jour de l'AG 2018.
+
+![](pt_8-2.png)
+
+En tant que Commissaire aux comptes, je n'ai pas émis d'objection. 
+
+J'invite néanmoins les copropriétaires à examiner le `pour` et le `contre` de cette allocation nouvelle, en fonction de leurs anticipations de travaux de rénovation et/ou d'embellissement des différentes parties de l'immeuble (sous-sols, façades, ascenseurs, ...)
+
+Il est rappelé que pour faire face à ses risques et ses charges futures (quelquefois aléatoires), une ACP doit s'auto-financer. Ce qui implique qu'elle doit pouvoir disposer de fonds de réserves (général ou spécifiques) suffisamment alimentés par rapport à sa planification pluriannuelle des travaux.
+
+
+
