@@ -22,7 +22,7 @@ au passif du bilan est inscrite la somme de 1.626,55 &euro; en provision pour r�
 * 31.12.2016 :<br>
 comme montant pour ordre est inscrit le montant de 34.224,05 &euro; (dépens de l'affaire Fontenelle)
 * 23.02.2018 :<br>
-lors de la visite effectuée pour le contrôle des comptes, le syndic a coomuniqué les justificatifs des honoraires facturés par l'avocat Devulder depuis le 01.01.2015
+lors de la visite effectuée pour le contrôle des comptes, le syndic a communiqué les justificatifs des honoraires facturés par l'avocat Devulder depuis le 01.01.2015
 
 | Date | Nature de dépense | &nbsp; |
 | --- | --- | ---: |

@@ -20,9 +20,9 @@ La 5° mission légale du syndic consiste à "*'administrer les fonds de l'assoc
 
 Au 31.12.2017, le syndic a respecté cette mission.
 
-### Les Fonds de réserve est-il trop gros ?
+### Le Fonds de réserve est-il trop gros ?
 
-Pas leur courriel du 13.02.2017 (09h54), les services comptables du Syndic m'ont demandé ce que je pensais de la proposition telle que rédigée sous le Point 8.2 de l'ordre du jour de l'AG 2018.
+Par leur courriel du 13.02.2017 (09h54), les services comptables du Syndic m'ont demandé ce que je pensais de la proposition telle que rédigée sous le Point 8.2 de l'ordre du jour de l'AG 2018.
 
 ![](pt_8-2.png)
 
