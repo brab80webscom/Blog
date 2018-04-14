@@ -7,6 +7,7 @@
 # 2018
 
 * [**28.03.2018**](/2018/20180328.md)<br>Ce soir, l'Assemblée Générale n'a pas été en nombre
+* [**22.03.2018**](/2018/20180322.md)<br>Le Groupe de réflexion rend son rapport et le diffuse aux copropriétaires
 * [**23.01.2018**](20180123.md)<br>Le jugement en appel déboute l'ACP<br>Le Juge de Paix est confirmé en toutes ses dispositions
 
 # 2017
