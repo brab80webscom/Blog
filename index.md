@@ -6,7 +6,7 @@
 
 # 2019
 
-* [**xx.01.2019**]()<br>Le *Drink* de ce soir a examiné les dispositions du Code Civil applicables depuis le 1<sup>er</sup> janvier dernier
+* [**17.01.2019**](/Code_Civil/nouveautes.md)<br>Le *Drink* de ce soir a examiné les dispositions du Code Civil applicables depuis le 1<sup>er</sup> janvier dernier
 
 # 2018
 
