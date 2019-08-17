@@ -4,6 +4,10 @@
 | :---: | :---: | :---: |
 | ![](icon_earn.png)<br>[Rapport 2018](/Rapports_CComptes/2018/home.md) | ![](icon_feedback.png)<br>&nbsp; | ![](icon_justice.png)<br>&nbsp; |
 
+# 2019
+
+* [**xx.01.2019**]()<br>Le *Drink* de ce soir a examiné les dispositions du Code Civil applicables depuis le 1<sup>er</sup> janvier dernier
+
 # 2018
 
 * [**28.03.2018**](/2018/20180328.md)<br>Ce soir, l'Assemblée Générale n'a pas été en nombre
