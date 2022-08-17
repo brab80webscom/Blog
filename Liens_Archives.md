@@ -14,6 +14,14 @@
 
 * [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2008_Declaration.pdf) des deux vérificateurs aux comptes en séance
 
+### AG 2009
+
+* [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2009_Declaration.pdf) des deux vérificateurs aux comptes en séance
+
+### AG 2010
+
+* [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2010_Declaration.pdf) des deux vérificateurs aux comptes en séance
+
 ### AG partielle du Bloc B (80A) 2011
 
 * [Discussion](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2011_AGpartielle.pdf) avec les Commissaires aux comptes en séance, le 08.12.2011, en suivi de l'AG 2011
@@ -102,5 +110,3 @@
 ### AG 2019
 
 * [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2019_Declaration.pdf) du Commissaire aux comptes
-
-#Brab 
