@@ -2,7 +2,7 @@
 
 | [Vos finances](https://brab80webscom.github.io/Comptes) | [Vivre ensemble](http://brabanconne-contact.site123.me/) | [Clarté juridique](/Legal/intro.md) |
 | :---: | :---: | :---: |
-| ![](icon_earn.png)<br>[Rapports comptes](/Liens_Archives.md)<br>&nbsp;<br>[Budgets : obligations](https://gist.github.com/6900097192f8beeee83c98a5b7d77c09) | ![](icon_feedback.png)<br>&nbsp; | ![](icon_justice.png)<br>&nbsp; |
+| ![](icon_earn.png)<br>[Rapports comptes](/Liens_Archives.md)<br>[Budgets (obligations)](https://gist.github.com/6900097192f8beeee83c98a5b7d77c09) | ![](icon_feedback.png)<br>&nbsp; | ![](icon_justice.png)<br>&nbsp; |
 
 # 2019
 
