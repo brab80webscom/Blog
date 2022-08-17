@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="normal3.css" type="text/css" />
+
 ## Rapports du (des) Commissaire(s) aux comptes
 
 ### AG 2006
@@ -31,7 +33,7 @@
 	* [Chapitre 8b](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2013_Chap_8b.pdf) (couverture des risques - contrôles périodiques)
 * [Rejets](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2013_Rejets.pdf) de pièces de l'exercice 2012
 
-### 2014
+### AG 2014
 
 * Rapport du Commissaire aux comptes, préalablement à l'AG
 	* [Rapport intérimaire 1](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2014_Partie1.pdf) - Structure financière de l'ACP "Brabançonne"
@@ -46,6 +48,12 @@
 
 * [Rapport](https://sites.google.com/site/brab80refs/home/00_structure) du Commissaire aux comptes Dumoulin, préalablement à l'AG
 * [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2015_Declaration.pdf) des trois Commissaires aux comptes en séance
+
+### AG 2016
+
+* [Rapport](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2016_Rapport.pdf) du Commissaire aux comptes Dumoulin, préalablement à l'AG
+* [Recommandantions](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2016_Declaration.pdf) soumises en séance
+
 
 ### AG 2017
 
@@ -94,3 +102,5 @@
 ### AG 2019
 
 * [Déclaration](https://brab80webscom.github.io/Blog/Rapports_CComptes/Archives/2019_Declaration.pdf) du Commissaire aux comptes
+
+#Brab 
